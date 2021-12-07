@@ -16,6 +16,11 @@
 #### Включение API
 В Google Cloud Platform на странице APIs & Services выбираем сверху +ENABLE APIS AND SERVICES, через поиск ищем Google Sheets API, выбираем и включаем
 
+#### Разрешение на изменение
+В таблице выбираем Настройка доступа и указываем сервисный аккаунт который создали
+
+
+---
 В проекте есть файл конфигурации config.json, где нужно указать id своей Google таблицы. 
 ```
 "SPREADSHEET_ID": "1mhViI6J75NxQGz-n03Gi6Jpp6KmJ1ITd0f6cOB8_Uu4",
