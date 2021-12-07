@@ -1,0 +1,5 @@
+requests
+fake_useragent
+google-api-python-client
+google.oauth2
+googleapiclient.discovery
